@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyLiveProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25170f5e32767b46c49359b940ec8b561c57dd7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLiveProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLiveProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
